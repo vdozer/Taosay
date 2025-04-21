@@ -9,7 +9,7 @@ A command-line tool that displays passages from the Tao Te Ching.
 - BSD 3-Clause licensed
 
 ## Usage
-```bash
+```text
 $ ./taosay
  ___  ___  ___  ___  ___  _ _    .---.
 |_ _|| . || . |/ __>| . || | |  / (_o \
